@@ -1,0 +1,4 @@
+﻿node_modules/
+notes.db
+.server.out.log
+.server.err.log
